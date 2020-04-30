@@ -1,0 +1,19 @@
+# Eclipse
+#.classpath
+#.project
+.settings/
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
+# Data
+*.json
+results/
+dataset/
+
+# Python
+.ipynb_checkpoints/
